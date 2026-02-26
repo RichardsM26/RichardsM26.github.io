@@ -6,7 +6,7 @@ Welcome to Marfworld
 | Project | Description | Link |
 |---------|-------------|------|
 
-| Functions | A useful tool for repetitive code | [View Code](https://richardsm26.github.io/Functions.html) |
+| Functions | A useful tool for repetitive code | [View Code](https://richardsm26.github.io/Marf/Functions.html) |
 
 ## Blog
 
