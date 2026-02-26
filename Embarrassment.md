@@ -1,4 +1,4 @@
-# Embarrassed 
+# Embarrassment
 
 ## 11th January 2026
 
