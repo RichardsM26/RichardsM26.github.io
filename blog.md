@@ -1,5 +1,5 @@
-# My Placement Blog 📝
+# Codymurf
 
-Here are my blog posts from my placement:
+## Murfblog
 
-[Week 1 - Men in Statistics](https://richardsm26.github.io/Marf/Men)
+[Men](https://richardsm26.github.io/Marf/Men)
