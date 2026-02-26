@@ -6,8 +6,7 @@ Welcome to Marfworld
 | Project | Description | Link |
 |--------|-------------|------|
 | ggplot2 | Brief description of what it does | [View Code](https://github.com/YOURUSERNAME/REPO-NAME) |
-| Functions | Brief description of what it does | [View Code](https://RichardsM26.github.io
-/Functions.html)|
+| Functions | Brief description of what it does | [View Code](https://richardsm26.github.io/Functions.html)
 | Data management | Brief description of what it does | [View Code](https://github.com/YOURUSERNAME/REPO-NAME) |
 | DataquieR | Brief description of what it does | [View Code](https://github.com/YOURUSERNAME/REPO-NAME) |
 ---
