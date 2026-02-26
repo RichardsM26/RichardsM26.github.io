@@ -1,3 +1,7 @@
+# Men
+
+## 10th January 2026
+
 I want to talk about boys. Firstly there are only four men I fully trust with the whole of my heart.
 
 My brother. There are three people I would willingly live with on my own for the rest of my life, two of my bestfriends and him. Through childhood he was my partner, we used to line his star wars figures up on top of my stack-a-cups on the stairs and shoot them with nerf guns. Or make nests in the washing baskets under the stairs. Either way he is a man now and just as sensitive and loving as he was when he was 7. He's in Australia at the moment and I miss him so much, but we are both living our best lives, this reminds me I need to message him. He hasn't always been the most masculine, but he has the best qualities of being a man, he is kind, confident and compassionate.
