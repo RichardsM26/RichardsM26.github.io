@@ -10,5 +10,5 @@ Welcome to Marfworld
 
 ## Blog
 
-[📝 Blog](https://richardsm26.github.io/blog.md)
+[📝 Blog](https://richardsm26.github.io/Marf/blog)
 
